@@ -20,6 +20,10 @@
 
 # COMMAND ----------
 
+2+2
+
+# COMMAND ----------
+
 # MAGIC %md
 # MAGIC ## Starting with something familiar
 # MAGIC 
